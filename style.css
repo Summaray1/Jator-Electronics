@@ -1,0 +1,233 @@
+			body{
+	        		margin: 0px;
+					font-family: roboto;
+					background-color: #fafafa;
+	        	}
+
+			  .navbg{
+			  width: 100%;
+			  height: 60px;
+			  background-color:#343a40;
+			  position: fixed;
+			  margin-top: -140px;
+			  }
+			                                                          
+			  .mainmenu{
+			   list-style:none;
+			   display: inline-flex;
+			   color: #ffffff;
+			   
+			   }
+			   
+			   ul.mainmenu,li a {
+			   padding: 8px 30px 0px 50px;
+			   text-decoration: none;
+			   color: #ffffff;
+			   }
+
+			   .icones{
+			     width: 23px;
+                 margin-top:-5px;
+			   }
+                
+			    .sectionone{
+				 background-color: #fafafa;
+				 text-align: center;
+				 margin-top: -10px;
+	
+				 
+				 }
+				 
+			    .hook{
+				font-weight: 900;
+				font-size: 320%;
+				margin-top: 140px;		
+				}
+				
+				   
+				.sectionone span, .sectiontwo span, .sectiontree span, .section8 span{
+				font-size:180%;
+				margin-top: -2px;
+				}
+							
+				.linksectionone  a , .linksectiontwo a, .linksectiontree a , .linksectionfive a, .linksectionsix a , .linksection8 a{
+				text-decoration: none;
+				margin: 0px 14px 0px 14px;
+				}
+				
+				.linksectionone  a:hover , .linksectiontwo a:hover, .linksectiontree a:hover, .linksectionfive a:hover, .linksectionsix a:hover, .linksection8 a {
+				text-decoration: underline;
+				font-size: 120%;
+				}
+				
+				.sectiontwo{
+				 background-color: #f5f5f5;
+				 width: 100%;
+				 text-align: center;
+				 padding-top: 10px;
+				 }
+				
+
+				.sectiontree{
+				 background-color: #131218;
+				 text-align: center;
+				 color:white;
+				 padding-top: 10px;
+				
+				 }
+				 
+				.linksectiontree  a {
+				color: blue;			
+				}   
+				
+			    .sectionleft1 {
+				text-align: center;
+				width: 50%;
+				float: left;
+				background-color:#fafafa;
+                
+				}
+				
+				.sectionleft2 {
+				text-align: center;
+				width: 50%;
+				float: left;
+				background-color:#f9f0eb;
+				margin-top: 18px;
+                
+				}
+			     
+				.imgsectionfour{
+				background-image: url('../TP/images/shop_for_college_large.jpg');
+				background-size:cover;
+				background-repeat: no-repeat;
+				height: 550px;
+				margin-top: -160px;
+				margin-left:-230px;
+				}
+				
+				.sectionfive1{
+				text-align: center;
+				width: 50%;
+				float: right;			
+				
+				}
+				
+				.hookfive{
+				font-size: 120%;
+				font-weight: 900;
+				color:white;
+				margin-top: 440px;
+				
+				}
+				
+				.hookfive2{
+				font-size: 330%;
+				font-weight: 900;
+				color:white;
+				margin-top: 390px;
+				}
+				
+                .imgsectionfive1{
+				background-image: url('../TP/images/behind_the_mac_boniface_large.jpg');
+				background-size:cover;
+				background-repeat: no-repeat;
+				background-position: center;
+				width: 100%;
+				height: 615px;
+				margin-top: -450px;
+				}
+				
+				.imgsectionleft2{
+				background-image: url('../TP/images/iphone_8_large.jpg');
+				background-repeat: no-repeat;
+				background-position: center;
+				width: 500px;
+				height:380px;	    
+
+				}
+				
+				.sectionseven{
+				text-align: center;
+				width: 50%;
+				float: right;			
+				
+				}
+				
+				.imgsectionfive2{
+				background-image: url('../TP/images/how_to_shoot_large.jpg');
+				background-size:cover;
+				background-repeat: no-repeat;
+				background-position: center;
+				width: 100%;
+				height: 615px;
+				margin-top: -450px;
+				}
+				
+				.section8 {
+				text-align: center;
+				width: 50%;
+				float: left;
+				background-color:#fafafa;
+				margin-top: 10px;
+                				
+				}
+				
+				.imgsection8{
+				background-image: url('../TP/images/airpods_large.jpg');
+				background-repeat: no-repeat;
+				background-position: center;			
+				width: 500px;
+				height:380px;
+                margin-top: 8px;				
+
+				}
+				
+				.section9 {
+				text-align: center;
+				width: 50%;
+				float: right;
+				background-color:#eeeeee;
+				margin-top: 10px;
+                				
+				}
+				
+				.imgsection9{
+				background-image: url('../TP/images/watch_series_3_large.jpg');
+				background-repeat: no-repeat;
+				background-position: center;			
+				width: 500px;
+				height:380px;
+                margin-top: px;				
+
+				}
+				
+				.pomme {
+			     width: 40px;              
+			    }
+			
+				.piedpage{
+			  width: 100%;
+			  height: 50px;	
+			  background-color:#343a40;
+			  float: left;		  
+               }  
+
+            p{
+			margin-left:15px;
+			color: #fafafa;
+            }		
+			.card-text{
+				color: black;
+			}	
+	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+ 
